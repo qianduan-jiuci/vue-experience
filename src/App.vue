@@ -40,7 +40,7 @@ const foo = ref<{
 }>({
   bar: "barbar",
 });
-window.foo = foo;
+
 // window.msg = msg;
 </script>
 
